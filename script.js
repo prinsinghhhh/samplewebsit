@@ -44,7 +44,6 @@ document.addEventListener('keydown', function(event){
   }
 })
 
-
 // document.addEventListener('keydown', function(event){
 // if (event.code === "ArrowUp"){
 //   bg.style.background = "white"
@@ -53,4 +52,3 @@ document.addEventListener('keydown', function(event){
 //   bg.style.background = "black"
 // }
 // })
-
