@@ -53,3 +53,4 @@ document.addEventListener('keydown', function(event){
 //   bg.style.background = "black"
 // }
 // })
+async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9074043376839639" crossorigin="anonymous">
